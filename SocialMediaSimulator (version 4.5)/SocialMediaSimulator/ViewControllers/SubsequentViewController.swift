@@ -15,11 +15,5 @@ class SubsequentViewController: UIViewController {
         super.viewDidLoad()
         
         subsequentTable.dataSource = self
-
     }
-    
-    
-    
-    
-
 }
