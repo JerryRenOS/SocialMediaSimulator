@@ -22,11 +22,4 @@ extension SubsequentViewController: UITableViewDataSource {
         
         return cell
     }
-    
-    
-    
-    
-    
-    
-    
 }
