@@ -13,4 +13,5 @@ class SMViewModel {
     
     var friendsData = [FriendzData]()
     var filteredFriendsData = [FriendzData]()
+    
 }
